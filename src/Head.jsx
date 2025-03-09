@@ -4,7 +4,6 @@ import { LuMail } from "react-icons/lu";
 import { BsGithub } from "react-icons/bs";
 import { GrLinkedin } from "react-icons/gr";
 import { IoMdExpand } from "react-icons/io";
-import { motion } from "framer-motion";
 
 import shop from './img/shop.png'
 import todo from './img/todo.png'
